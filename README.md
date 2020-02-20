@@ -1,11 +1,13 @@
 # Semantically-guided Large Deforamtion Estimation with Deep Netowrks 
 
-**Code**<p>
+Code
+--------------
 Example code for "Semantically-Guided Large Deformation Estimationwith Deep Networks"<p>
 (Tested with Pytorch version 1.3.1, cudnn version 7.6.03)<p>
 <p>
   
-**Datasets**<p>
+Datasets
+--------------
 Datasets used in the experiments:<p>
 - *Face Dataset* resized Helen dataset [1] can be found under: http://pages.cs.wisc.edu/~lizhang/projects/face-parsing/ <p>
 - *Medical Dataset* Automated Cardiac Diagnosis Challenge (ACDC) dataset [2] can be found under:  https://www.creatis.insa-lyon.fr/Challenge/acdc/databases.html <p>
@@ -18,10 +20,14 @@ Datasets used in the experiments:<p>
 **Training dataset for demo** can be downloaded <a href="https://cloud.imi.uni-luebeck.de/s/tTkssFjpzdZT9ek">here</a>.<p>
   
   
-**Results**<p>
+Results
+--------------
+<p>
 <p>
 
-**Examples** <p>
+Examples
+--------------
+<p>
 ![](data/example_results.png)
 <p>Example results of our approach on Helen dataset. (Top) reference image with the ground truth reference labels, (middle) target image with warped ground truth reference labels, (bottom) warped reference images.
   <p>
