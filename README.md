@@ -28,6 +28,7 @@ Results
 Examples
 --------------
 <p>
+  
 ![](data/example_results.png)
 <p>Example results of our approach on Helen dataset. (Top) reference image with the ground truth reference labels, (middle) target image with warped ground truth reference labels, (bottom) warped reference images.
   <p>
