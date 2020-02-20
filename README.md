@@ -19,11 +19,6 @@ Datasets used in the experiments:<p>
 
 **Training dataset for demo** can be downloaded <a href="https://cloud.imi.uni-luebeck.de/s/tTkssFjpzdZT9ek">here</a>.<p>
   
-  
-Results
---------------
-<p>
-<p>
 
 Examples
 --------------
