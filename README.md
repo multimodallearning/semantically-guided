@@ -2,6 +2,7 @@
 
 **Code**<p>
 Example code for "Semantically-Guided Large Deformation Estimationwith Deep Networks"<p>
+(Tested with Pytorch version 1.3.1, cudnn version 7.6.03)<p>
 <p>
   
 **Datasets**<p>
