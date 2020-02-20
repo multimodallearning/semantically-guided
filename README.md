@@ -22,6 +22,6 @@ Datasets used in the experiments:<p>
 <p>
 
 **Examples** <p>
-![]data/example.png
+![]data/img1.png
 <p>
 
