@@ -14,4 +14,4 @@ Datasets used in the experiments:<p>
 *[2] O. Bernard, A. Lalande, C. Zotti, F. Cervenansky, et al. "Deep Learning Techniques for Automatic MRI Cardiac Multi-structures Segmentation and Diagnosis: Is the Problem Solved ?" in IEEE Transactions on Medical Imaging, vol. 37, no. 11, pp. 2514-2525, Nov. 2018 doi: 10.1109/TMI.2018.2837502*<p>
 <p>
 
-**Training dataset for demo** can be downloaded <a href="ftps://cloud.imi.uni-luebeck.de/s/tTkssFjpzdZT9ek">here</a>.<p>
+**Training dataset for demo** can be downloaded <a href="ftp://cloud.imi.uni-luebeck.de/s/tTkssFjpzdZT9ek">here</a>.<p>
