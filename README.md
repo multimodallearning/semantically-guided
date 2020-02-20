@@ -22,6 +22,7 @@ Datasets used in the experiments:<p>
 <p>
 
 **Examples** <p>
-![](data/img1.png)
-<p>
+![](data/example_results.png)
+<p>Example results of our approach. (Top) reference image with the ground truth reference labels, (middle) target image with warped ground truth reference labels, (bottom) warped reference images.
+  <p>
 
