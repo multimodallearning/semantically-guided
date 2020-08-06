@@ -4,7 +4,7 @@ import torch.nn.functional as F
 import torch.optim as optim
 import torch.nn.init as init
 import numpy as np
-from utils import *
+from src.utils import *
 
 # weight initialisation
 def init_weights(m):
